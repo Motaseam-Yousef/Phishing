@@ -1,5 +1,9 @@
 import streamlit as st
 import joblib
+# Ignore all warnings
+import warnings
+warnings.filterwarnings('ignore')
+
 
 # Load your trained model
 phish_model = joblib.load('phishing.pkl')
