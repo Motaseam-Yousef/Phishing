@@ -1,2 +1,37 @@
-joblib
+# Data processing and numerical libraries
+pandas
+numpy
+
+# Visualization libraries
+seaborn
+matplotlib
+plotly
+
+# Machine Learning and preprocessing
+scikit-learn  # This includes LogisticRegression, train_test_split, and more
+
+# Text processing and natural language processing
+nltk  # Includes RegexpTokenizer, SnowballStemmer
+scikit-learn  # Includes CountVectorizer
+
+# Image processing
+Pillow  # Often imported as Image
+
+# Word cloud generation
+wordcloud
+
+# HTML and XML parsing
+beautifulsoup4  # Often referred to as Beautiful Soup
+
+# Web scraping
+selenium
+
+# Graphs and network analysis
+networkx
+
+# Deployment tools
+uvicorn
+fastapi
 streamlit
+# Model serialization
+joblib
